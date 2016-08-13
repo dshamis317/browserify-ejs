@@ -1,3 +1,5 @@
+This is a fork of [unfold/browserify-ejs](https://github.com/unfold/browserify-ejs)
+
 # Browserify EJS
 
 [browserify](https://github.com/substack/node-browserify) transform plugin for [EJS](https://github.com/visionmedia/ejs) templates
